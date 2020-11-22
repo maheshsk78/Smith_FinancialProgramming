@@ -11,7 +11,7 @@
 ###### 1. Linear regression (OLS) concepts are reviewed
 ###### 2. Fixed Effect, random effect, first difference 
 ###### 3. Probit, logit, multinomial models
-######4. Non parametric models - Kernel, MARS, Spline
+###### 4. Non parametric models - Kernel, MARS, Spline
 ###### 5. Survival Analysis - Hazard function, Kaplan-Meier, Cox Proportional Hazard
 ###### 6. Visualizations
 
