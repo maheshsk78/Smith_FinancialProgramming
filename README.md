@@ -15,5 +15,5 @@ The syllabus includes:
 5. Survival Analysis - Hazard function, Kaplan-Meier, Cox Proportional Hazard
 6. Visualizations
 
-All codes use the analogy and help provided by the professor in class. 
+All codes use the ideas and help provided by the professor in class. 
 A big shoutout to him for his continual support and guidance
