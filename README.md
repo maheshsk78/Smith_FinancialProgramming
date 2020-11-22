@@ -4,7 +4,7 @@
 #### This course is taught at the Robert H Smith School of Business, University of Maryland
 #### Students pursuing the Master of Quantitative Finance will benefit from it 
 
-#### The idea is to model data using machine learning techiques in python.
+#### The idea is to model data using machine learning techniques in python and create a credit scoring model
 #### Various models and techniques are introduced to the students at a more evolved level
 
 #### The syllabus includes:
